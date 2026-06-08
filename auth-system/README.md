@@ -84,8 +84,8 @@ Edit `.env`:
 
 ```env
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/authdb
-JWT_SECRET=your_super_secret_jwt_key_change_this_in_production
+MONGO_URI=mongodb+srv://pikadee015_db_user:2s2cGw2PenGnBP1Z@cluster0.rk4ahjd.mongodb.net/mern-auth?retryWrites=true&w=majority&appName=Cluster0
+JWT_SECRET=58108f93b322754b98761968c8fe2b64f6727d05147648cd6885921e4d9cea1f4ac054ba1969a866a4ab6fbd9dcbe3afc02810bda4eafdc621a89fd6719bf635
 NODE_ENV=development
 ```
 
